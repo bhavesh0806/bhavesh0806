@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavesh0806
 - 👀 I’m interested in IOT and Electronics 
-Currently Working as a Intern in E-infochips
+-Currently Working as a Intern in E-infochips
 - 🌱 I’m currently pursuing B.Tech in Electronics and Communication 
 - 📫 Contact me using mail:- maheshwari.bhavesh0806@gmail.com
 <!---
