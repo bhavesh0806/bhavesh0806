@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhavesh Maheshwari
 - 👤 @bhavesh0806
 - 👀 Passionate about the intersection of Internet of Things (IoT) and Electronics 
-- 🏢 Currently Working as a Associate Engineer in E-infochips
+- 🏢 As an Associate Engineer at E-infochips, I contribute to innovative solutions in the field of electronics
 - 📜 I hold a Bachelor's degree in Electronics and Communication Engineering
 - 📫 Contact me using mail:- maheshwari.bhavesh0806@gmail.com
 <!---
