@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhavesh0806
 - 👀 I’m interested in IOT and Electronics 
-- Currently Working as a Intern in E-infochips
-- 🌱 I’m currently pursuing B.Tech in Electronics and Communication 
+- Currently Working as a Associate Engineer in E-infochips
+- 🌱 I hold a Bachelor's degree in Electronics and Communication Engineering
 - 📫 Contact me using mail:- maheshwari.bhavesh0806@gmail.com
 <!---
 bhavesh0806/bhavesh0806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
